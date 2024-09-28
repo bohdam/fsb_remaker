@@ -1,5 +1,5 @@
 FSB Remaker
-Shadps4 FSB Remaker for Bloodborne
+Shadps4 FSB Remaker for Bloodborne(may partly work with other games)
 
 I’m working on a program that generates deciphered FSB files from the audio in Bloodborne, which first needs to be converted using foobar2000. I'm open to help (because I’m too lazy to do it all by myself!).
 
